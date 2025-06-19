@@ -788,7 +788,7 @@
         <dependency>
             <groupId>io.swagger</groupId>
             <artifactId>swagger-inflector</artifactId>
-            <version>1.0.19</version>
+            <version>1.0.26</version>
             <exclusions>
                 <exclusion>
                     <groupId>ch.qos.logback</groupId>
