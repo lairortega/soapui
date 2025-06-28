@@ -137,12 +137,12 @@
         <picocontainer.version>2.14.3</picocontainer.version>
         <assertj-swing-version>3.17.1</assertj-swing-version>
         <maven-checksum-plugin.version>1.0</maven-checksum-plugin.version>
-        <jackson-version>2.13.0</jackson-version>
+        <jackson-version>2.15.0</jackson-version>
 
         <!-- Swagger/OpenAPI -->
 
         <io.swagger.swagger-parser.version>1.0.54</io.swagger.swagger-parser.version>
-        <io.swagger.swagger-core.version>1.6.2</io.swagger.swagger-core.version>
+        <io.swagger.swagger-core.version>1.6.12</io.swagger.swagger-core.version>
     </properties>
 
     <modules>
